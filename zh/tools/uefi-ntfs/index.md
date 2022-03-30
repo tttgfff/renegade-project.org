@@ -1,8 +1,8 @@
 UEFI-NTFS
 ===========
 
-## Introductoon
+## 介绍
 
-This tool helps you to boot EFI application located in an NTFS filesystem.
+此工具可帮助您引导位于 NTFS 文件系统中的 EFI 应用程序。
 
-It can be useful when you need to place your Windows PE/Installer files in an NTFS filesystem.
+当您需要将 Windows PE/安装程序文件放在 NTFS 文件系统中时，它可能很有用。
